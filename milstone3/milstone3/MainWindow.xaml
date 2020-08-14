@@ -1,0 +1,26 @@
+﻿<Window x:Class="milstone3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:milstone3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="461.224" Width="323.898">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/milstone3;component/design/background.png" Stretch="UniformToFill">
+            </ImageBrush>
+        </Grid.Background>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="75*"/>
+            <ColumnDefinition Width="31*"/>
+        </Grid.ColumnDefinitions>
+        <Label Content="Email" HorizontalAlignment="Left" FontFamily="Arial Nova Cond" FontWeight="Bold" Margin="42,107,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.502,-1.762"/>
+        <Label Content="Password"  HorizontalAlignment="Left" FontFamily="Arial Nova Cond" FontWeight="Bold" Margin="48,156,0,0" VerticalAlignment="Top"/>
+        <TextBox Text="{Binding UserName}" FontFamily="Arial Nova Cond" Grid.ColumnSpan="2" Name="UserNameInput" HorizontalAlignment="Left" Height="23" Margin="142,107,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="120"/>
+        <Button Content="Login" FontFamily="Arial Nova Cond" Background="Transparent" BorderBrush="White" BorderThickness="3" Name="Login" HorizontalAlignment="Left" Margin="120,233,0,0" VerticalAlignment="Top" Width="75" Click="Login_Click"/>
+        <Button Content="Register" FontFamily="Arial Nova Cond" Background="Transparent" BorderBrush="White" BorderThickness="3" Name="Register" HorizontalAlignment="Left" Margin="120,287,0,0" VerticalAlignment="Top" Width="75" Click="Register_Click"/>
+        <TextBox Name="PasswordBox" Grid.ColumnSpan="2" Text="{Binding PWD}" HorizontalAlignment="Left" Height="23" Margin="142,166,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="120" TextChanged="TextBox_TextChanged" />
+
+    </Grid>
+</Window>

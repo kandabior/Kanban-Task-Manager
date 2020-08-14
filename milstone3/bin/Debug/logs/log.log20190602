@@ -1,0 +1,110 @@
+2019-06-02 21:46:53,783 INFO [1] ILog - users initiated
+2019-06-02 21:47:30,760 INFO [1] ILog - created a new user name: kandabi@g.com
+2019-06-02 21:47:30,931 ERROR [1] ILog - problem with adding column to the database
+2019-06-02 21:47:30,933 INFO [1] ILog - column was added to the board: kandabi@g.com
+2019-06-02 21:47:31,004 ERROR [1] ILog - problem with adding column to the database
+2019-06-02 21:47:31,006 INFO [1] ILog - column was added to the board: kandabi@g.com
+2019-06-02 21:47:31,078 ERROR [1] ILog - problem with adding column to the database
+2019-06-02 21:47:31,080 INFO [1] ILog - column was added to the board: kandabi@g.com
+2019-06-02 21:47:31,192 ERROR [1] ILog - problem with adding user to the database
+2019-06-02 21:47:38,824 ERROR [1] ILog - Attempt to register a user that exist
+2019-06-02 21:47:46,035 ERROR [1] ILog - Attempt to register a user that exist
+2019-06-02 21:49:53,991 INFO [1] ILog - users initiated
+2019-06-02 21:50:43,896 INFO [1] ILog - created a new user name: elad@g.com
+2019-06-02 21:50:52,046 ERROR [1] ILog - problem with adding column to the database
+2019-06-02 21:50:52,047 INFO [1] ILog - column was added to the board: elad@g.com
+2019-06-02 21:50:52,066 ERROR [1] ILog - problem with adding column to the database
+2019-06-02 21:50:52,067 INFO [1] ILog - column was added to the board: elad@g.com
+2019-06-02 21:50:52,085 ERROR [1] ILog - problem with adding column to the database
+2019-06-02 21:50:52,087 INFO [1] ILog - column was added to the board: elad@g.com
+2019-06-02 21:51:11,085 ERROR [1] ILog - problem with adding user to the database
+2019-06-02 21:51:20,202 INFO [1] ILog - users initiated
+2019-06-02 21:51:43,677 INFO [1] ILog - created a new user name: erez@g.com
+2019-06-02 21:51:44,106 ERROR [1] ILog - problem with adding column to the database
+2019-06-02 21:51:44,108 INFO [1] ILog - column was added to the board: erez@g.com
+2019-06-02 21:51:44,135 ERROR [1] ILog - problem with adding column to the database
+2019-06-02 21:51:44,137 INFO [1] ILog - column was added to the board: erez@g.com
+2019-06-02 21:51:44,178 ERROR [1] ILog - problem with adding column to the database
+2019-06-02 21:51:44,180 INFO [1] ILog - column was added to the board: erez@g.com
+2019-06-02 21:54:52,247 INFO [1] ILog - users initiated
+2019-06-02 21:55:24,906 INFO [1] ILog - created a new user name: eladgay@g.com
+2019-06-02 21:55:24,954 ERROR [1] ILog - problem with adding column to the database
+2019-06-02 21:55:24,956 INFO [1] ILog - column was added to the board: eladgay@g.com
+2019-06-02 21:55:24,992 ERROR [1] ILog - problem with adding column to the database
+2019-06-02 21:55:24,994 INFO [1] ILog - column was added to the board: eladgay@g.com
+2019-06-02 21:55:25,018 ERROR [1] ILog - problem with adding column to the database
+2019-06-02 21:55:25,019 INFO [1] ILog - column was added to the board: eladgay@g.com
+2019-06-02 21:55:36,085 INFO [1] ILog - eladgay@g.com loged in
+2019-06-02 21:56:19,855 ERROR [1] ILog - date not valid: 20/20/2019
+2019-06-02 21:56:35,998 ERROR [1] ILog - problem with adding task to the database
+2019-06-02 21:56:36,002 INFO [1] ILog - couldnt to add new task to databas: eladgay@g.com 1
+2019-06-02 21:56:36,005 INFO [1] ILog - new task added by eladgay@g.com
+2019-06-02 21:57:16,214 INFO [1] ILog - users initiated
+2019-06-02 21:57:24,605 INFO [1] ILog - eladgay@g.com loged in
+2019-06-02 21:59:18,246 INFO [1] ILog - users initiated
+2019-06-02 21:59:39,740 INFO [1] ILog - created a new user name: kandabi@g.com
+2019-06-02 22:00:05,695 INFO [1] ILog - users initiated
+2019-06-02 22:00:29,731 INFO [1] ILog - created a new user name: kandabi@g.com
+2019-06-02 22:00:59,884 ERROR [1] ILog - problem with adding column to the database
+2019-06-02 22:00:59,885 INFO [1] ILog - column was added to the board: kandabi@g.com
+2019-06-02 22:01:08,786 INFO [1] ILog - column was added to the board: kandabi@g.com
+2019-06-02 22:01:08,810 INFO [1] ILog - column was added to the board: kandabi@g.com
+2019-06-02 22:01:22,199 INFO [1] ILog - kandabi@g.com loged in
+2019-06-02 22:01:41,410 ERROR [1] ILog - problem with adding task to the database
+2019-06-02 22:01:41,411 INFO [1] ILog - couldnt to add new task to databas: kandabi@g.com 1
+2019-06-02 22:01:41,412 INFO [1] ILog - new task added by kandabi@g.com
+2019-06-02 22:01:50,211 ERROR [1] ILog - problem with extract from database
+2019-06-02 22:01:50,226 INFO [1] ILog - users initiated
+2019-06-02 22:01:59,368 INFO [1] ILog - kandabi@g.com loged in
+2019-06-02 22:05:46,422 ERROR [1] ILog - problem with extract from database
+2019-06-02 22:05:46,515 INFO [1] ILog - users initiated
+2019-06-02 22:06:03,460 INFO [1] ILog - created a new user name: elad@g.com
+2019-06-02 22:08:32,614 INFO [1] ILog - column was added to the board: elad@g.com
+2019-06-02 22:08:35,946 ERROR [1] ILog - problem with adding column to the database
+2019-06-02 22:08:35,947 INFO [1] ILog - column was added to the board: elad@g.com
+2019-06-02 22:08:36,547 ERROR [1] ILog - problem with adding column to the database
+2019-06-02 22:08:36,549 INFO [1] ILog - column was added to the board: elad@g.com
+2019-06-02 22:09:58,351 ERROR [1] ILog - problem with extract from database
+2019-06-02 22:09:58,367 INFO [1] ILog - users initiated
+2019-06-02 22:10:10,584 INFO [1] ILog - created a new user name: erez@g.com
+2019-06-02 22:12:25,876 ERROR [1] ILog - problem with extract from database
+2019-06-02 22:12:25,938 INFO [1] ILog - users initiated
+2019-06-02 22:13:08,922 ERROR [1] ILog - Attempt to register a user that exist
+2019-06-02 22:13:30,011 INFO [1] ILog - created a new user name: erezgay@g.com
+2019-06-02 22:13:58,538 ERROR [1] ILog - problem with extract from database
+2019-06-02 22:13:58,547 ERROR [1] ILog - problem with extract from database
+2019-06-02 22:13:58,549 ERROR [1] ILog - problem with extract from database
+2019-06-02 22:13:58,552 ERROR [1] ILog - problem with extract from database
+2019-06-02 22:13:58,555 ERROR [1] ILog - problem with extract from database
+2019-06-02 22:14:02,812 ERROR [1] ILog - problem with adding column to the database
+2019-06-02 22:14:02,814 INFO [1] ILog - column was added to the board: erezgay@g.com
+2019-06-02 22:14:18,913 ERROR [1] ILog - problem with extract from database
+2019-06-02 22:14:18,991 INFO [1] ILog - users initiated
+2019-06-02 22:14:38,147 INFO [1] ILog - created a new user name: or@g.com
+2019-06-02 22:15:21,723 INFO [1] ILog - users initiated
+2019-06-02 22:15:31,131 INFO [1] ILog - created a new user name: or@g.com
+2019-06-02 22:15:31,172 INFO [1] ILog - column was added to the board: or@g.com
+2019-06-02 22:15:31,187 INFO [1] ILog - column was added to the board: or@g.com
+2019-06-02 22:15:31,200 INFO [1] ILog - column was added to the board: or@g.com
+2019-06-02 22:15:40,106 INFO [1] ILog - or@g.com loged in
+2019-06-02 22:15:54,219 ERROR [1] ILog - problem with adding task to the database
+2019-06-02 22:15:54,220 INFO [1] ILog - couldnt to add new task to databas: or@g.com 1
+2019-06-02 22:15:54,220 INFO [1] ILog - new task added by or@g.com
+2019-06-02 22:16:03,176 ERROR [1] ILog - problem with extract from database
+2019-06-02 22:16:03,192 INFO [1] ILog - users initiated
+2019-06-02 22:16:12,143 INFO [1] ILog - or@g.com loged in
+2019-06-02 22:17:42,985 ERROR [1] ILog - problem with extract from database
+2019-06-02 22:17:43,000 INFO [1] ILog - users initiated
+2019-06-02 22:17:50,641 INFO [1] ILog - or@g.com loged in
+2019-06-02 22:18:11,927 ERROR [1] ILog - date not valid: 10/10/2019
+2019-06-02 22:18:25,121 ERROR [1] ILog - date not valid: 10/10/2019
+2019-06-02 22:19:06,334 ERROR [1] ILog - problem with extract from database
+2019-06-02 22:19:06,428 INFO [1] ILog - users initiated
+2019-06-02 22:19:14,650 INFO [1] ILog - or@g.com loged in
+2019-06-02 22:22:18,721 ERROR [1] ILog - problem with extract from database
+2019-06-02 22:22:18,750 INFO [1] ILog - users initiated
+2019-06-02 22:22:26,429 INFO [1] ILog - or@g.com loged in
+2019-06-02 22:22:40,659 ERROR [1] ILog - date not valid: 10/10/2019
+2019-06-02 22:23:50,114 ERROR [1] ILog - problem with extract from database
+2019-06-02 22:23:50,129 INFO [1] ILog - users initiated
+2019-06-02 22:29:08,991 INFO [1] ILog - users initiated

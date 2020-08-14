@@ -1,0 +1,40 @@
+﻿<Window x:Class="milstone3.BoardWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:milstone3"
+        mc:Ignorable="d"
+        Title="BoardWindow" Height="457.333" Width="925.333">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/milstone3;component/triangle-background-17-e1446557615252.png" Stretch="UniformToFill">
+            </ImageBrush>
+        </Grid.Background>
+        <DataGrid Name="BoardGrid" Background="Transparent" BorderBrush="White" BorderThickness="2" ItemsSource="{Binding GridView, Mode=OneWay}" SelectedItem="{Binding Selected}" HorizontalAlignment="Left" Height="249" Margin="54,64,0,0" VerticalAlignment="Top" Width="472" SelectionChanged="DataGrid_SelectionChanged"/>
+        <Button Content="Delete" FontFamily="Cooper Black" FontSize="14"  FontWeight="Bold" Background="Transparent" BorderBrush="White" BorderThickness="2" HorizontalAlignment="Left" Margin="359,348,0,0" VerticalAlignment="Top" Width="75" Click="Delete_Click"/>
+        <Button Content="Edit" FontFamily="Cooper Black" FontSize="14"  FontWeight="Bold" Background="Transparent" BorderBrush="White" BorderThickness="2"  HorizontalAlignment="Left" Margin="145,348,0,0" VerticalAlignment="Top" Width="72" Click="Edit_Click"/>
+        <Button Content="Add Task" FontFamily="Cooper Black" FontSize="14"  FontWeight="Bold" Background="Transparent" BorderBrush="White" BorderThickness="2"  HorizontalAlignment="Left" Margin="54,348,0,0" VerticalAlignment="Top" Width="75" Click="AddTask_Click"/>
+        <Button Content="Add Column" FontFamily="Cooper Black" FontSize="14"  FontWeight="Bold" Background="Transparent" BorderBrush="White" BorderThickness="2"  HorizontalAlignment="Left" Margin="711,243,0,0" VerticalAlignment="Top" Width="117" Click="AddColumn_Click"/>
+        <Button Content="Search"  FontWeight="Bold" Background="Transparent" BorderBrush="White" BorderThickness="2"   HorizontalAlignment="Left" Margin="602,72,0,0" VerticalAlignment="Top" Width="96" FontFamily="Cooper Black" FontSize="14" />
+        <TextBox Name="SearchTerm" Text="{Binding SearchTerm, Mode=OneWayToSource}" HorizontalAlignment="Left" Height="23" Margin="564,44,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="134"/>
+        <TextBox Text="{Binding ColumnTitle}"  Name="NewColumnTitle" HorizontalAlignment="Left" Height="23" Margin="708,270,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="120"/>
+        <Button Content="Logout" FontFamily="Cooper Black"  FontSize="14"  FontWeight="Bold" Background="Transparent" BorderBrush="red" Foreground="red" BorderThickness="2"  HorizontalAlignment="Left" Margin="836,399,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
+        <Button Content="Column down" FontFamily="Cooper Black" FontSize="14"  FontWeight="Bold" Background="Transparent" BorderBrush="White" BorderThickness="2"  HorizontalAlignment="Left" VerticalAlignment="Top" Width="117" Margin="711,139,0,0" Click="Change_State_Next"/>
+        <Button Content="Column up" FontFamily="Cooper Black" FontSize="14"  FontWeight="Bold" Background="Transparent" BorderBrush="White" BorderThickness="2"  HorizontalAlignment="Left" VerticalAlignment="Top" Width="117" Margin="711,111,0,0" Click="Change_State_Back"/>
+        <Button Content="ChangeState" FontFamily="Cooper Black" FontSize="14"  FontWeight="Bold" Background="Transparent" BorderBrush="White" BorderThickness="2"  HorizontalAlignment="Left" VerticalAlignment="Top" Width="104" Margin="237,348,0,0" Click="Change_State"/>
+        <DataGrid Name="columnOrder" Background="Transparent" BorderBrush="White" BorderThickness="2"  ItemsSource="{Binding ColumnGridView, Mode=OneWay}" SelectedItem="{Binding SelectedColumn}" HorizontalAlignment="Left" Height="182" Margin="564,111,0,0" VerticalAlignment="Top" Width="139" FrozenColumnCount="1" CanUserSortColumns="False"/>
+        <Button Name="DeleteColumn" FontFamily="Cooper Black" FontSize="14"  FontWeight="Bold" Background="Transparent" BorderBrush="White" BorderThickness="2"  Content="Delete" HorizontalAlignment="Left" Margin="711,205,0,0" VerticalAlignment="Top" Width="117" Click="DeleteColumn_Click"/>
+        <Image Margin="772,4,0.333,337" Source="/milstone3;component/imageedit_11_3487255878.png" Stretch="Fill" Opacity="0.85"/>
+        <Button Name="SetMaxTask" FontFamily="Cooper Black" FontSize="14"  FontWeight="Bold"   Background="Transparent" BorderBrush="White" BorderThickness="2"  Content="Max Task" HorizontalAlignment="Left" Margin="711,166,0,0" VerticalAlignment="Top" Width="117" Click="SetMaxTask_Click"/>
+        <TextBox HorizontalAlignment="Left" Text="{Binding MaxTask}" Height="23" Margin="834,166,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="38"/>
+        <Label Content="User Name:" HorizontalAlignment="Left" Margin="10,4,0,0" VerticalAlignment="Top" Width="83" FontFamily="Segoe UI Black"/>
+        <Label Content="{Binding Username}" HorizontalAlignment="Left" Margin="93,4,0,0" VerticalAlignment="Top" Width="168" Height="29" FontFamily="Segoe UI Black"/>
+        <Button Content="Sort" FontFamily="Cooper Black" FontSize="14"  FontWeight="Bold" Background="Transparent" BorderBrush="White" BorderThickness="2"  HorizontalAlignment="Left" Margin="452,348,0,0" VerticalAlignment="Top" Width="74" Click="Button_Click_1"/>
+        <Button Content="Show Task" FontFamily="Cooper Black" FontSize="14"  FontWeight="Bold" Background="Transparent" BorderBrush="White" BorderThickness="2"   HorizontalAlignment="Left" Margin="540,348,0,0" VerticalAlignment="Top" Width="92" Click="Button_Click_2"/>
+        <Button FontFamily="Cooper Black" FontSize="14"  FontWeight="Bold" Background="Transparent" BorderBrush="White" BorderThickness="2"  Content="change board" HorizontalAlignment="Left" Margin="735,400,0,0" VerticalAlignment="Top" Width="93" Click="Button_Click_3"/>
+        <Label FontFamily="Segoe UI Black" Content="Board:" HorizontalAlignment="Left" Margin="10,35,0,0" VerticalAlignment="Top" Width="54"/>
+        <Label FontFamily="Segoe UI Black" Content="{Binding BoardId}" HorizontalAlignment="Left" Margin="93,38,0,0" VerticalAlignment="Top" Width="128" Height="23"/>
+
+    </Grid>
+</Window>

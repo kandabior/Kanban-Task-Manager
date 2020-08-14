@@ -1,0 +1,6 @@
+2019-05-21 15:10:40,445 INFO [1] ILog - users initiated
+2019-05-21 15:10:51,490 INFO [1] ILog - kandabi@g.com loged in
+2019-05-21 15:11:07,058 ERROR [1] ILog - can't move the column
+2019-05-21 15:11:11,482 ERROR [1] ILog - can't move the column
+2019-05-21 15:11:20,960 INFO [1] ILog - new max task Was determined
+2019-05-21 15:12:04,585 INFO [1] ILog - new max task Was determined

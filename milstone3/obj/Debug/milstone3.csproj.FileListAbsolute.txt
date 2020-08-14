@@ -1,0 +1,250 @@
+C:\Users\erez1\milestone-2-eoe_team30\milstone3\bin\Debug\milstone3.exe.config
+C:\Users\erez1\milestone-2-eoe_team30\milstone3\bin\Debug\milstone3.exe
+C:\Users\erez1\milestone-2-eoe_team30\milstone3\bin\Debug\milstone3.pdb
+C:\Users\erez1\milestone-2-eoe_team30\milstone3\bin\Debug\log4net.dll
+C:\Users\erez1\milestone-2-eoe_team30\milstone3\bin\Debug\log4net.xml
+C:\Users\erez1\milestone-2-eoe_team30\milstone3\obj\Debug\PresentationLayer\XamlWindows\AddTaskWindow.g.cs
+C:\Users\erez1\milestone-2-eoe_team30\milstone3\obj\Debug\PresentationLayer\XamlWindows\BoardWindow.g.cs
+C:\Users\erez1\milestone-2-eoe_team30\milstone3\obj\Debug\PresentationLayer\XamlWindows\EditTaskWindow.g.cs
+C:\Users\erez1\milestone-2-eoe_team30\milstone3\obj\Debug\PresentationLayer\XamlWindows\MainWindow.g.cs
+C:\Users\erez1\milestone-2-eoe_team30\milstone3\obj\Debug\PresentationLayer\XamlWindows\Window1.g.cs
+C:\Users\erez1\milestone-2-eoe_team30\milstone3\obj\Debug\App.g.cs
+C:\Users\erez1\milestone-2-eoe_team30\milstone3\obj\Debug\milstone3_MarkupCompile.cache
+C:\Users\erez1\milestone-2-eoe_team30\milstone3\obj\Debug\milstone3_MarkupCompile.lref
+C:\Users\erez1\milestone-2-eoe_team30\milstone3\obj\Debug\PresentationLayer\XamlWindows\AddTaskWindow.baml
+C:\Users\erez1\milestone-2-eoe_team30\milstone3\obj\Debug\PresentationLayer\XamlWindows\BoardWindow.baml
+C:\Users\erez1\milestone-2-eoe_team30\milstone3\obj\Debug\PresentationLayer\XamlWindows\EditTaskWindow.baml
+C:\Users\erez1\milestone-2-eoe_team30\milstone3\obj\Debug\PresentationLayer\XamlWindows\MainWindow.baml
+C:\Users\erez1\milestone-2-eoe_team30\milstone3\obj\Debug\PresentationLayer\XamlWindows\Window1.baml
+C:\Users\erez1\milestone-2-eoe_team30\milstone3\obj\Debug\milstone3.g.resources
+C:\Users\erez1\milestone-2-eoe_team30\milstone3\obj\Debug\milstone3.Properties.Resources.resources
+C:\Users\erez1\milestone-2-eoe_team30\milstone3\obj\Debug\milstone3.csproj.GenerateResource.cache
+C:\Users\erez1\milestone-2-eoe_team30\milstone3\obj\Debug\milstone3.csproj.CoreCompileInputs.cache
+C:\Users\erez1\milestone-2-eoe_team30\milstone3\obj\Debug\milstone3.csproj.CopyComplete
+C:\Users\erez1\milestone-2-eoe_team30\milstone3\obj\Debug\milstone3.exe
+C:\Users\erez1\milestone-2-eoe_team30\milstone3\obj\Debug\milstone3.pdb
+C:\Users\erez1\milestone-2-eoe_team30\milstone3\obj\Debug\milstone3.csprojAssemblyReference.cache
+C:\Users\אלעד\Desktop\newww\milstone3\bin\Debug\milstone3.exe.config
+C:\Users\אלעד\Desktop\newww\milstone3\bin\Debug\milstone3.exe
+C:\Users\אלעד\Desktop\newww\milstone3\bin\Debug\milstone3.pdb
+C:\Users\אלעד\Desktop\newww\milstone3\bin\Debug\log4net.dll
+C:\Users\אלעד\Desktop\newww\milstone3\bin\Debug\log4net.xml
+C:\Users\אלעד\Desktop\newww\milstone3\obj\Debug\milstone3.csprojAssemblyReference.cache
+C:\Users\אלעד\Desktop\newww\milstone3\obj\Debug\PresentationLayer\XamlWindows\AddTaskWindow.g.cs
+C:\Users\אלעד\Desktop\newww\milstone3\obj\Debug\PresentationLayer\XamlWindows\BoardWindow.g.cs
+C:\Users\אלעד\Desktop\newww\milstone3\obj\Debug\PresentationLayer\XamlWindows\EditTaskWindow.g.cs
+C:\Users\אלעד\Desktop\newww\milstone3\obj\Debug\PresentationLayer\XamlWindows\MainWindow.g.cs
+C:\Users\אלעד\Desktop\newww\milstone3\obj\Debug\PresentationLayer\XamlWindows\Window1.g.cs
+C:\Users\אלעד\Desktop\newww\milstone3\obj\Debug\App.g.cs
+C:\Users\אלעד\Desktop\newww\milstone3\obj\Debug\milstone3_MarkupCompile.cache
+C:\Users\אלעד\Desktop\newww\milstone3\obj\Debug\milstone3_MarkupCompile.lref
+C:\Users\אלעד\Desktop\newww\milstone3\obj\Debug\PresentationLayer\XamlWindows\AddTaskWindow.baml
+C:\Users\אלעד\Desktop\newww\milstone3\obj\Debug\PresentationLayer\XamlWindows\BoardWindow.baml
+C:\Users\אלעד\Desktop\newww\milstone3\obj\Debug\PresentationLayer\XamlWindows\EditTaskWindow.baml
+C:\Users\אלעד\Desktop\newww\milstone3\obj\Debug\PresentationLayer\XamlWindows\MainWindow.baml
+C:\Users\אלעד\Desktop\newww\milstone3\obj\Debug\PresentationLayer\XamlWindows\Window1.baml
+C:\Users\אלעד\Desktop\newww\milstone3\obj\Debug\milstone3.g.resources
+C:\Users\אלעד\Desktop\newww\milstone3\obj\Debug\milstone3.Properties.Resources.resources
+C:\Users\אלעד\Desktop\newww\milstone3\obj\Debug\milstone3.csproj.GenerateResource.cache
+C:\Users\אלעד\Desktop\newww\milstone3\obj\Debug\milstone3.csproj.CoreCompileInputs.cache
+C:\Users\אלעד\Desktop\newww\milstone3\obj\Debug\milstone3.csproj.CopyComplete
+C:\Users\אלעד\Desktop\newww\milstone3\obj\Debug\milstone3.exe
+C:\Users\אלעד\Desktop\newww\milstone3\obj\Debug\milstone3.pdb
+C:\Users\or\milestone-2-eoe_team30\milstone3\bin\Debug\milstone3.exe.config
+C:\Users\or\milestone-2-eoe_team30\milstone3\bin\Debug\milstone3.exe
+C:\Users\or\milestone-2-eoe_team30\milstone3\bin\Debug\milstone3.pdb
+C:\Users\or\milestone-2-eoe_team30\milstone3\bin\Debug\log4net.dll
+C:\Users\or\milestone-2-eoe_team30\milstone3\bin\Debug\log4net.xml
+C:\Users\or\milestone-2-eoe_team30\milstone3\obj\Debug\milstone3.csprojAssemblyReference.cache
+C:\Users\or\milestone-2-eoe_team30\milstone3\obj\Debug\PresentationLayer\XamlWindows\AddTaskWindow.g.cs
+C:\Users\or\milestone-2-eoe_team30\milstone3\obj\Debug\PresentationLayer\XamlWindows\BoardWindow.g.cs
+C:\Users\or\milestone-2-eoe_team30\milstone3\obj\Debug\PresentationLayer\XamlWindows\EditTaskWindow.g.cs
+C:\Users\or\milestone-2-eoe_team30\milstone3\obj\Debug\PresentationLayer\XamlWindows\MainWindow.g.cs
+C:\Users\or\milestone-2-eoe_team30\milstone3\obj\Debug\PresentationLayer\XamlWindows\Window1.g.cs
+C:\Users\or\milestone-2-eoe_team30\milstone3\obj\Debug\App.g.cs
+C:\Users\or\milestone-2-eoe_team30\milstone3\obj\Debug\milstone3_MarkupCompile.cache
+C:\Users\or\milestone-2-eoe_team30\milstone3\obj\Debug\milstone3_MarkupCompile.lref
+C:\Users\or\milestone-2-eoe_team30\milstone3\obj\Debug\PresentationLayer\XamlWindows\AddTaskWindow.baml
+C:\Users\or\milestone-2-eoe_team30\milstone3\obj\Debug\PresentationLayer\XamlWindows\BoardWindow.baml
+C:\Users\or\milestone-2-eoe_team30\milstone3\obj\Debug\PresentationLayer\XamlWindows\EditTaskWindow.baml
+C:\Users\or\milestone-2-eoe_team30\milstone3\obj\Debug\PresentationLayer\XamlWindows\MainWindow.baml
+C:\Users\or\milestone-2-eoe_team30\milstone3\obj\Debug\PresentationLayer\XamlWindows\Window1.baml
+C:\Users\or\milestone-2-eoe_team30\milstone3\obj\Debug\milstone3.g.resources
+C:\Users\or\milestone-2-eoe_team30\milstone3\obj\Debug\milstone3.Properties.Resources.resources
+C:\Users\or\milestone-2-eoe_team30\milstone3\obj\Debug\milstone3.csproj.GenerateResource.cache
+C:\Users\or\milestone-2-eoe_team30\milstone3\obj\Debug\milstone3.csproj.CoreCompileInputs.cache
+C:\Users\or\milestone-2-eoe_team30\milstone3\obj\Debug\milstone3.csproj.CopyComplete
+C:\Users\or\milestone-2-eoe_team30\milstone3\obj\Debug\milstone3.exe
+C:\Users\or\milestone-2-eoe_team30\milstone3\obj\Debug\milstone3.pdb
+C:\Users\or\Desktop\milstone3\bin\Debug\milstone3.exe.config
+C:\Users\or\Desktop\milstone3\bin\Debug\milstone3.exe
+C:\Users\or\Desktop\milstone3\bin\Debug\milstone3.pdb
+C:\Users\or\Desktop\milstone3\bin\Debug\log4net.dll
+C:\Users\or\Desktop\milstone3\bin\Debug\log4net.xml
+C:\Users\or\Desktop\milstone3\obj\Debug\milstone3.csprojAssemblyReference.cache
+C:\Users\or\Desktop\milstone3\obj\Debug\PresentationLayer\XamlWindows\AddTaskWindow.g.cs
+C:\Users\or\Desktop\milstone3\obj\Debug\PresentationLayer\XamlWindows\BoardWindow.g.cs
+C:\Users\or\Desktop\milstone3\obj\Debug\PresentationLayer\XamlWindows\EditTaskWindow.g.cs
+C:\Users\or\Desktop\milstone3\obj\Debug\PresentationLayer\XamlWindows\MainWindow.g.cs
+C:\Users\or\Desktop\milstone3\obj\Debug\PresentationLayer\XamlWindows\Window1.g.cs
+C:\Users\or\Desktop\milstone3\obj\Debug\App.g.cs
+C:\Users\or\Desktop\milstone3\obj\Debug\milstone3_MarkupCompile.cache
+C:\Users\or\Desktop\milstone3\obj\Debug\milstone3_MarkupCompile.lref
+C:\Users\or\Desktop\milstone3\obj\Debug\PresentationLayer\XamlWindows\AddTaskWindow.baml
+C:\Users\or\Desktop\milstone3\obj\Debug\PresentationLayer\XamlWindows\BoardWindow.baml
+C:\Users\or\Desktop\milstone3\obj\Debug\PresentationLayer\XamlWindows\EditTaskWindow.baml
+C:\Users\or\Desktop\milstone3\obj\Debug\PresentationLayer\XamlWindows\MainWindow.baml
+C:\Users\or\Desktop\milstone3\obj\Debug\PresentationLayer\XamlWindows\Window1.baml
+C:\Users\or\Desktop\milstone3\obj\Debug\milstone3.g.resources
+C:\Users\or\Desktop\milstone3\obj\Debug\milstone3.Properties.Resources.resources
+C:\Users\or\Desktop\milstone3\obj\Debug\milstone3.csproj.GenerateResource.cache
+C:\Users\or\Desktop\milstone3\obj\Debug\milstone3.csproj.CoreCompileInputs.cache
+C:\Users\or\Desktop\milstone3\obj\Debug\milstone3.csproj.CopyComplete
+C:\Users\or\Desktop\milstone3\obj\Debug\milstone3.exe
+C:\Users\or\Desktop\milstone3\obj\Debug\milstone3.pdb
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone3\milstone3\bin\Debug\milstone3.exe.config
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone3\milstone3\bin\Debug\milstone3.exe
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone3\milstone3\bin\Debug\milstone3.pdb
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone3\milstone3\bin\Debug\log4net.dll
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone3\milstone3\bin\Debug\log4net.xml
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone3\milstone3\obj\Debug\milstone3.csprojAssemblyReference.cache
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone3\milstone3\obj\Debug\PresentationLayer\XamlWindows\AddTaskWindow.g.cs
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone3\milstone3\obj\Debug\PresentationLayer\XamlWindows\BoardWindow.g.cs
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone3\milstone3\obj\Debug\PresentationLayer\XamlWindows\EditTaskWindow.g.cs
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone3\milstone3\obj\Debug\PresentationLayer\XamlWindows\MainWindow.g.cs
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone3\milstone3\obj\Debug\PresentationLayer\XamlWindows\Window1.g.cs
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone3\milstone3\obj\Debug\App.g.cs
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone3\milstone3\obj\Debug\milstone3_MarkupCompile.cache
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone3\milstone3\obj\Debug\milstone3_MarkupCompile.lref
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone3\milstone3\obj\Debug\PresentationLayer\XamlWindows\AddTaskWindow.baml
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone3\milstone3\obj\Debug\PresentationLayer\XamlWindows\BoardWindow.baml
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone3\milstone3\obj\Debug\PresentationLayer\XamlWindows\EditTaskWindow.baml
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone3\milstone3\obj\Debug\PresentationLayer\XamlWindows\MainWindow.baml
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone3\milstone3\obj\Debug\PresentationLayer\XamlWindows\Window1.baml
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone3\milstone3\obj\Debug\milstone3.g.resources
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone3\milstone3\obj\Debug\milstone3.Properties.Resources.resources
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone3\milstone3\obj\Debug\milstone3.csproj.GenerateResource.cache
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone3\milstone3\obj\Debug\milstone3.csproj.CoreCompileInputs.cache
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone3\milstone3\obj\Debug\milstone3.csproj.CopyComplete
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone3\milstone3\obj\Debug\milstone3.exe
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone3\milstone3\obj\Debug\milstone3.pdb
+C:\Users\or\milestone-2-eoe_team30\milstone3\obj\Debug\PresentationLayer\XamlWindows\TaskWindow.g.cs
+C:\Users\or\milestone-2-eoe_team30\milstone3\obj\Debug\PresentationLayer\XamlWindows\TaskWindow.baml
+C:\Users\אלעד\Desktop\newww\milstone3\obj\Debug\PresentationLayer\XamlWindows\TaskWindow.g.cs
+C:\Users\אלעד\Desktop\newww\milstone3\obj\Debug\PresentationLayer\XamlWindows\TaskWindow.baml
+C:\Users\אלעד\Desktop\newww\milstone3\obj\Debug\PresentationLayer\XamlWindows\chooseBoard.g.cs
+C:\Users\אלעד\Desktop\newww\milstone3\obj\Debug\PresentationLayer\XamlWindows\chooseBoard.baml
+C:\Users\or\Desktop\newww\milstone3\bin\Debug\milstone3.exe.config
+C:\Users\or\Desktop\newww\milstone3\bin\Debug\milstone3.exe
+C:\Users\or\Desktop\newww\milstone3\bin\Debug\milstone3.pdb
+C:\Users\or\Desktop\newww\milstone3\bin\Debug\log4net.dll
+C:\Users\or\Desktop\newww\milstone3\bin\Debug\log4net.xml
+C:\Users\or\Desktop\newww\milstone3\obj\Debug\milstone3.csprojAssemblyReference.cache
+C:\Users\or\Desktop\newww\milstone3\obj\Debug\PresentationLayer\XamlWindows\AddTaskWindow.g.cs
+C:\Users\or\Desktop\newww\milstone3\obj\Debug\PresentationLayer\XamlWindows\BoardWindow.g.cs
+C:\Users\or\Desktop\newww\milstone3\obj\Debug\PresentationLayer\XamlWindows\chooseBoard.g.cs
+C:\Users\or\Desktop\newww\milstone3\obj\Debug\PresentationLayer\XamlWindows\EditTaskWindow.g.cs
+C:\Users\or\Desktop\newww\milstone3\obj\Debug\PresentationLayer\XamlWindows\MainWindow.g.cs
+C:\Users\or\Desktop\newww\milstone3\obj\Debug\PresentationLayer\XamlWindows\TaskWindow.g.cs
+C:\Users\or\Desktop\newww\milstone3\obj\Debug\PresentationLayer\XamlWindows\Window1.g.cs
+C:\Users\or\Desktop\newww\milstone3\obj\Debug\App.g.cs
+C:\Users\or\Desktop\newww\milstone3\obj\Debug\milstone3_MarkupCompile.cache
+C:\Users\or\Desktop\newww\milstone3\obj\Debug\milstone3_MarkupCompile.lref
+C:\Users\or\Desktop\newww\milstone3\obj\Debug\PresentationLayer\XamlWindows\AddTaskWindow.baml
+C:\Users\or\Desktop\newww\milstone3\obj\Debug\PresentationLayer\XamlWindows\BoardWindow.baml
+C:\Users\or\Desktop\newww\milstone3\obj\Debug\PresentationLayer\XamlWindows\chooseBoard.baml
+C:\Users\or\Desktop\newww\milstone3\obj\Debug\PresentationLayer\XamlWindows\EditTaskWindow.baml
+C:\Users\or\Desktop\newww\milstone3\obj\Debug\PresentationLayer\XamlWindows\MainWindow.baml
+C:\Users\or\Desktop\newww\milstone3\obj\Debug\PresentationLayer\XamlWindows\TaskWindow.baml
+C:\Users\or\Desktop\newww\milstone3\obj\Debug\PresentationLayer\XamlWindows\Window1.baml
+C:\Users\or\Desktop\newww\milstone3\obj\Debug\milstone3.g.resources
+C:\Users\or\Desktop\newww\milstone3\obj\Debug\milstone3.Properties.Resources.resources
+C:\Users\or\Desktop\newww\milstone3\obj\Debug\milstone3.csproj.GenerateResource.cache
+C:\Users\or\Desktop\newww\milstone3\obj\Debug\milstone3.csproj.CoreCompileInputs.cache
+C:\Users\or\Desktop\newww\milstone3\obj\Debug\milstone3.csproj.CopyComplete
+C:\Users\or\Desktop\newww\milstone3\obj\Debug\milstone3.exe
+C:\Users\or\Desktop\newww\milstone3\obj\Debug\milstone3.pdb
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone4\milstone3\bin\Debug\x86\sqlite3.dll
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone4\milstone3\bin\Debug\x64\sqlite3.dll
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone4\milstone3\bin\Debug\milstone3.exe.config
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone4\milstone3\bin\Debug\milstone3.exe
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone4\milstone3\bin\Debug\milstone3.pdb
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone4\milstone3\bin\Debug\EntityFramework.dll
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone4\milstone3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone4\milstone3\bin\Debug\log4net.dll
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone4\milstone3\bin\Debug\System.Data.SQLite.dll
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone4\milstone3\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone4\milstone3\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone4\milstone3\bin\Debug\EntityFramework.xml
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone4\milstone3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone4\milstone3\bin\Debug\log4net.xml
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone4\milstone3\bin\Debug\System.Data.SQLite.xml
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone4\milstone3\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone4\milstone3\obj\Debug\milstone3.csprojAssemblyReference.cache
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone4\milstone3\obj\Debug\PresentationLayer\XamlWindows\AddTaskWindow.g.cs
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone4\milstone3\obj\Debug\PresentationLayer\XamlWindows\BoardWindow.g.cs
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone4\milstone3\obj\Debug\PresentationLayer\XamlWindows\chooseBoard.g.cs
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone4\milstone3\obj\Debug\PresentationLayer\XamlWindows\EditTaskWindow.g.cs
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone4\milstone3\obj\Debug\PresentationLayer\XamlWindows\MainWindow.g.cs
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone4\milstone3\obj\Debug\PresentationLayer\XamlWindows\TaskWindow.g.cs
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone4\milstone3\obj\Debug\PresentationLayer\XamlWindows\Window1.g.cs
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone4\milstone3\obj\Debug\App.g.cs
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone4\milstone3\obj\Debug\milstone3_Content.g.cs
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone4\milstone3\obj\Debug\milstone3_MarkupCompile.cache
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone4\milstone3\obj\Debug\milstone3_MarkupCompile.lref
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone4\milstone3\obj\Debug\PresentationLayer\XamlWindows\AddTaskWindow.baml
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone4\milstone3\obj\Debug\PresentationLayer\XamlWindows\BoardWindow.baml
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone4\milstone3\obj\Debug\PresentationLayer\XamlWindows\chooseBoard.baml
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone4\milstone3\obj\Debug\PresentationLayer\XamlWindows\EditTaskWindow.baml
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone4\milstone3\obj\Debug\PresentationLayer\XamlWindows\MainWindow.baml
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone4\milstone3\obj\Debug\PresentationLayer\XamlWindows\TaskWindow.baml
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone4\milstone3\obj\Debug\PresentationLayer\XamlWindows\Window1.baml
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone4\milstone3\obj\Debug\milstone3.g.resources
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone4\milstone3\obj\Debug\milstone3.Properties.Resources.resources
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone4\milstone3\obj\Debug\milstone3.csproj.GenerateResource.cache
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone4\milstone3\obj\Debug\milstone3.csproj.CoreCompileInputs.cache
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone4\milstone3\obj\Debug\milstone3.csproj.CopyComplete
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone4\milstone3\obj\Debug\milstone3.exe
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone4\milstone3\obj\Debug\milstone3.pdb
+C:\Users\or\Documents\University\simesterB\מבוא להנדסת תוכנה\milstone4\milstone3\bin\Debug\x86\sqlite3.dll
+C:\Users\or\Documents\University\simesterB\מבוא להנדסת תוכנה\milstone4\milstone3\bin\Debug\x64\sqlite3.dll
+C:\Users\or\Documents\University\simesterB\מבוא להנדסת תוכנה\milstone4\milstone3\bin\Debug\milstone3.exe.config
+C:\Users\or\Documents\University\simesterB\מבוא להנדסת תוכנה\milstone4\milstone3\bin\Debug\milstone3.exe
+C:\Users\or\Documents\University\simesterB\מבוא להנדסת תוכנה\milstone4\milstone3\bin\Debug\milstone3.pdb
+C:\Users\or\Documents\University\simesterB\מבוא להנדסת תוכנה\milstone4\milstone3\bin\Debug\EntityFramework.dll
+C:\Users\or\Documents\University\simesterB\מבוא להנדסת תוכנה\milstone4\milstone3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\or\Documents\University\simesterB\מבוא להנדסת תוכנה\milstone4\milstone3\bin\Debug\log4net.dll
+C:\Users\or\Documents\University\simesterB\מבוא להנדסת תוכנה\milstone4\milstone3\bin\Debug\System.Data.SQLite.dll
+C:\Users\or\Documents\University\simesterB\מבוא להנדסת תוכנה\milstone4\milstone3\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\or\Documents\University\simesterB\מבוא להנדסת תוכנה\milstone4\milstone3\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\or\Documents\University\simesterB\מבוא להנדסת תוכנה\milstone4\milstone3\bin\Debug\EntityFramework.xml
+C:\Users\or\Documents\University\simesterB\מבוא להנדסת תוכנה\milstone4\milstone3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\or\Documents\University\simesterB\מבוא להנדסת תוכנה\milstone4\milstone3\bin\Debug\log4net.xml
+C:\Users\or\Documents\University\simesterB\מבוא להנדסת תוכנה\milstone4\milstone3\bin\Debug\System.Data.SQLite.xml
+C:\Users\or\Documents\University\simesterB\מבוא להנדסת תוכנה\milstone4\milstone3\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\or\Documents\University\simesterB\מבוא להנדסת תוכנה\milstone4\milstone3\obj\Debug\milstone3.csprojAssemblyReference.cache
+C:\Users\or\Documents\University\simesterB\מבוא להנדסת תוכנה\milstone4\milstone3\obj\Debug\PresentationLayer\XamlWindows\AddTaskWindow.g.cs
+C:\Users\or\Documents\University\simesterB\מבוא להנדסת תוכנה\milstone4\milstone3\obj\Debug\PresentationLayer\XamlWindows\BoardWindow.g.cs
+C:\Users\or\Documents\University\simesterB\מבוא להנדסת תוכנה\milstone4\milstone3\obj\Debug\PresentationLayer\XamlWindows\chooseBoard.g.cs
+C:\Users\or\Documents\University\simesterB\מבוא להנדסת תוכנה\milstone4\milstone3\obj\Debug\PresentationLayer\XamlWindows\EditTaskWindow.g.cs
+C:\Users\or\Documents\University\simesterB\מבוא להנדסת תוכנה\milstone4\milstone3\obj\Debug\PresentationLayer\XamlWindows\MainWindow.g.cs
+C:\Users\or\Documents\University\simesterB\מבוא להנדסת תוכנה\milstone4\milstone3\obj\Debug\PresentationLayer\XamlWindows\TaskWindow.g.cs
+C:\Users\or\Documents\University\simesterB\מבוא להנדסת תוכנה\milstone4\milstone3\obj\Debug\PresentationLayer\XamlWindows\Window1.g.cs
+C:\Users\or\Documents\University\simesterB\מבוא להנדסת תוכנה\milstone4\milstone3\obj\Debug\App.g.cs
+C:\Users\or\Documents\University\simesterB\מבוא להנדסת תוכנה\milstone4\milstone3\obj\Debug\milstone3_Content.g.cs
+C:\Users\or\Documents\University\simesterB\מבוא להנדסת תוכנה\milstone4\milstone3\obj\Debug\milstone3_MarkupCompile.cache
+C:\Users\or\Documents\University\simesterB\מבוא להנדסת תוכנה\milstone4\milstone3\obj\Debug\milstone3_MarkupCompile.lref
+C:\Users\or\Documents\University\simesterB\מבוא להנדסת תוכנה\milstone4\milstone3\obj\Debug\PresentationLayer\XamlWindows\AddTaskWindow.baml
+C:\Users\or\Documents\University\simesterB\מבוא להנדסת תוכנה\milstone4\milstone3\obj\Debug\PresentationLayer\XamlWindows\BoardWindow.baml
+C:\Users\or\Documents\University\simesterB\מבוא להנדסת תוכנה\milstone4\milstone3\obj\Debug\PresentationLayer\XamlWindows\chooseBoard.baml
+C:\Users\or\Documents\University\simesterB\מבוא להנדסת תוכנה\milstone4\milstone3\obj\Debug\PresentationLayer\XamlWindows\EditTaskWindow.baml
+C:\Users\or\Documents\University\simesterB\מבוא להנדסת תוכנה\milstone4\milstone3\obj\Debug\PresentationLayer\XamlWindows\MainWindow.baml
+C:\Users\or\Documents\University\simesterB\מבוא להנדסת תוכנה\milstone4\milstone3\obj\Debug\PresentationLayer\XamlWindows\TaskWindow.baml
+C:\Users\or\Documents\University\simesterB\מבוא להנדסת תוכנה\milstone4\milstone3\obj\Debug\PresentationLayer\XamlWindows\Window1.baml
+C:\Users\or\Documents\University\simesterB\מבוא להנדסת תוכנה\milstone4\milstone3\obj\Debug\milstone3.g.resources
+C:\Users\or\Documents\University\simesterB\מבוא להנדסת תוכנה\milstone4\milstone3\obj\Debug\milstone3.Properties.Resources.resources
+C:\Users\or\Documents\University\simesterB\מבוא להנדסת תוכנה\milstone4\milstone3\obj\Debug\milstone3.csproj.GenerateResource.cache
+C:\Users\or\Documents\University\simesterB\מבוא להנדסת תוכנה\milstone4\milstone3\obj\Debug\milstone3.csproj.CoreCompileInputs.cache
+C:\Users\or\Documents\University\simesterB\מבוא להנדסת תוכנה\milstone4\milstone3\obj\Debug\milstone3.csproj.CopyComplete
+C:\Users\or\Documents\University\simesterB\מבוא להנדסת תוכנה\milstone4\milstone3\obj\Debug\milstone3.exe
+C:\Users\or\Documents\University\simesterB\מבוא להנדסת תוכנה\milstone4\milstone3\obj\Debug\milstone3.pdb

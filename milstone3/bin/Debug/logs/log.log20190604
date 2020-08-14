@@ -1,0 +1,7 @@
+2019-06-04 10:24:10,374 ERROR [1] ILog - problem with extract from database
+2019-06-04 10:24:10,408 INFO [1] ILog - users initiated
+2019-06-04 10:24:20,777 INFO [1] ILog - or@g.com loged in
+2019-06-04 10:24:34,756 ERROR [1] ILog - date not valid: 10/10/2019
+2019-06-04 10:24:43,266 ERROR [1] ILog - date not valid: 10/10/2019
+2019-06-04 10:24:59,194 ERROR [1] ILog - date not valid: 10/10/2019
+2019-06-04 10:25:21,279 ERROR [1] ILog - problem with extract from database

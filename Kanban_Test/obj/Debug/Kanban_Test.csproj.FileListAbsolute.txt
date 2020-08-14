@@ -1,0 +1,58 @@
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone4\Kanban_Test\bin\Debug\x86\sqlite3.dll
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone4\Kanban_Test\bin\Debug\x64\sqlite3.dll
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone4\Kanban_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone4\Kanban_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone4\Kanban_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone4\Kanban_Test\bin\Debug\Kanban_Test.dll.config
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone4\Kanban_Test\bin\Debug\Kanban_Test.dll
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone4\Kanban_Test\bin\Debug\Kanban_Test.pdb
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone4\Kanban_Test\bin\Debug\EntityFramework.dll
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone4\Kanban_Test\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone4\Kanban_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone4\Kanban_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone4\Kanban_Test\bin\Debug\milstone3.exe
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone4\Kanban_Test\bin\Debug\System.Data.SQLite.dll
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone4\Kanban_Test\bin\Debug\log4net.dll
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone4\Kanban_Test\bin\Debug\milstone3.pdb
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone4\Kanban_Test\bin\Debug\milstone3.exe.config
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone4\Kanban_Test\bin\Debug\EntityFramework.xml
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone4\Kanban_Test\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone4\Kanban_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone4\Kanban_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone4\Kanban_Test\bin\Debug\System.Data.SQLite.xml
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone4\Kanban_Test\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone4\Kanban_Test\bin\Debug\log4net.xml
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone4\Kanban_Test\obj\Debug\Kanban_Test.csprojAssemblyReference.cache
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone4\Kanban_Test\obj\Debug\Kanban_Test.csproj.CoreCompileInputs.cache
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone4\Kanban_Test\obj\Debug\Kanban_Test.csproj.CopyComplete
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone4\Kanban_Test\obj\Debug\Kanban_Test.dll
+C:\Users\or\Documents\University\סמסטר ב\מבוא להנדסת תוכנה\milstone4\Kanban_Test\obj\Debug\Kanban_Test.pdb
+C:\Users\or\Documents\University\simesterB\מבוא להנדסת תוכנה\milstone4\Kanban_Test\bin\Debug\x86\sqlite3.dll
+C:\Users\or\Documents\University\simesterB\מבוא להנדסת תוכנה\milstone4\Kanban_Test\bin\Debug\x64\sqlite3.dll
+C:\Users\or\Documents\University\simesterB\מבוא להנדסת תוכנה\milstone4\Kanban_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\or\Documents\University\simesterB\מבוא להנדסת תוכנה\milstone4\Kanban_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\or\Documents\University\simesterB\מבוא להנדסת תוכנה\milstone4\Kanban_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\or\Documents\University\simesterB\מבוא להנדסת תוכנה\milstone4\Kanban_Test\bin\Debug\Kanban_Test.dll.config
+C:\Users\or\Documents\University\simesterB\מבוא להנדסת תוכנה\milstone4\Kanban_Test\bin\Debug\Kanban_Test.dll
+C:\Users\or\Documents\University\simesterB\מבוא להנדסת תוכנה\milstone4\Kanban_Test\bin\Debug\Kanban_Test.pdb
+C:\Users\or\Documents\University\simesterB\מבוא להנדסת תוכנה\milstone4\Kanban_Test\bin\Debug\EntityFramework.dll
+C:\Users\or\Documents\University\simesterB\מבוא להנדסת תוכנה\milstone4\Kanban_Test\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\or\Documents\University\simesterB\מבוא להנדסת תוכנה\milstone4\Kanban_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\or\Documents\University\simesterB\מבוא להנדסת תוכנה\milstone4\Kanban_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\or\Documents\University\simesterB\מבוא להנדסת תוכנה\milstone4\Kanban_Test\bin\Debug\milstone3.exe
+C:\Users\or\Documents\University\simesterB\מבוא להנדסת תוכנה\milstone4\Kanban_Test\bin\Debug\log4net.dll
+C:\Users\or\Documents\University\simesterB\מבוא להנדסת תוכנה\milstone4\Kanban_Test\bin\Debug\System.Data.SQLite.dll
+C:\Users\or\Documents\University\simesterB\מבוא להנדסת תוכנה\milstone4\Kanban_Test\bin\Debug\milstone3.pdb
+C:\Users\or\Documents\University\simesterB\מבוא להנדסת תוכנה\milstone4\Kanban_Test\bin\Debug\milstone3.exe.config
+C:\Users\or\Documents\University\simesterB\מבוא להנדסת תוכנה\milstone4\Kanban_Test\bin\Debug\EntityFramework.xml
+C:\Users\or\Documents\University\simesterB\מבוא להנדסת תוכנה\milstone4\Kanban_Test\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\or\Documents\University\simesterB\מבוא להנדסת תוכנה\milstone4\Kanban_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\or\Documents\University\simesterB\מבוא להנדסת תוכנה\milstone4\Kanban_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\or\Documents\University\simesterB\מבוא להנדסת תוכנה\milstone4\Kanban_Test\bin\Debug\log4net.xml
+C:\Users\or\Documents\University\simesterB\מבוא להנדסת תוכנה\milstone4\Kanban_Test\bin\Debug\System.Data.SQLite.xml
+C:\Users\or\Documents\University\simesterB\מבוא להנדסת תוכנה\milstone4\Kanban_Test\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\or\Documents\University\simesterB\מבוא להנדסת תוכנה\milstone4\Kanban_Test\obj\Debug\Kanban_Test.csprojAssemblyReference.cache
+C:\Users\or\Documents\University\simesterB\מבוא להנדסת תוכנה\milstone4\Kanban_Test\obj\Debug\Kanban_Test.csproj.CoreCompileInputs.cache
+C:\Users\or\Documents\University\simesterB\מבוא להנדסת תוכנה\milstone4\Kanban_Test\obj\Debug\Kanban_Test.csproj.CopyComplete
+C:\Users\or\Documents\University\simesterB\מבוא להנדסת תוכנה\milstone4\Kanban_Test\obj\Debug\Kanban_Test.dll
+C:\Users\or\Documents\University\simesterB\מבוא להנדסת תוכנה\milstone4\Kanban_Test\obj\Debug\Kanban_Test.pdb

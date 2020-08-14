@@ -1,0 +1,115 @@
+2019-06-12 10:16:34,592 ERROR [1] ILog - problem with extract from database
+2019-06-12 10:16:34,624 INFO [1] ILog - users initiated
+2019-06-12 10:18:23,509 WARN [1] ILog - kandabi@g.com tried to login with incorrect password
+2019-06-12 10:18:41,739 INFO [1] ILog - kandabi@g.com loged in
+2019-06-12 10:27:21,887 INFO [1] ILog - added new task to databas: kandabi@g.com 2
+2019-06-12 10:27:21,889 INFO [1] ILog - new task added by kandabi@g.com
+2019-06-12 10:29:02,630 INFO [1] ILog - tasks sorted in board :hello
+2019-06-12 10:37:04,158 INFO [1] ILog - column was added to the board: another
+2019-06-12 10:37:04,178 INFO [1] ILog - column was added to the board: another
+2019-06-12 10:37:04,201 INFO [1] ILog - column was added to the board: another
+2019-06-12 10:37:23,958 INFO [1] ILog - added new task to databas: kandabi@g.com 3
+2019-06-12 10:37:23,959 INFO [1] ILog - new task added by kandabi@g.com
+2019-06-12 10:37:44,758 INFO [1] ILog - column was added to the board: 
+2019-06-12 10:37:44,778 INFO [1] ILog - column was added to the board: 
+2019-06-12 10:37:44,806 INFO [1] ILog - column was added to the board: 
+2019-06-12 10:38:11,178 INFO [1] ILog - kandabi@g.com deleted column: backlog
+2019-06-12 10:38:11,207 INFO [1] ILog - column was deleted succesfuly
+2019-06-12 10:38:11,208 INFO [1] ILog - kandabi@g.com deleted column: inProccess
+2019-06-12 10:38:11,235 INFO [1] ILog - column was deleted succesfuly
+2019-06-12 10:38:11,237 INFO [1] ILog - kandabi@g.com deleted column: done
+2019-06-12 10:38:11,263 INFO [1] ILog - column was deleted succesfuly
+2019-06-12 10:38:11,265 INFO [1] ILog - board deleted successfuly: 
+2019-06-12 10:40:04,788 INFO [1] ILog - users initiated
+2019-06-12 10:40:10,801 INFO [1] ILog - kandabi@g.com loged in
+2019-06-12 10:40:15,415 INFO [1] ILog - column was added to the board: hello
+2019-06-12 10:40:15,437 INFO [1] ILog - column was added to the board: hello
+2019-06-12 10:40:15,459 INFO [1] ILog - column was added to the board: hello
+2019-06-12 10:40:31,354 INFO [1] ILog - users initiated
+2019-06-12 10:40:39,603 WARN [1] ILog - kandabi@g.com tried to login with incorrect password
+2019-06-12 10:41:08,026 INFO [1] ILog - kandabi@g.com loged in
+2019-06-12 10:41:10,670 INFO [1] ILog - kandabi@g.com deleted column: inProccess
+2019-06-12 10:41:10,706 INFO [1] ILog - column was deleted succesfuly
+2019-06-12 10:41:10,707 INFO [1] ILog - kandabi@g.com deleted column: done
+2019-06-12 10:41:18,298 INFO [1] ILog - delted task from database: 2 taskId
+2019-06-12 10:41:18,331 INFO [1] ILog - column was deleted succesfuly
+2019-06-12 10:41:18,333 INFO [1] ILog - kandabi@g.com deleted column: backlog
+2019-06-12 10:41:18,354 INFO [1] ILog - column was deleted succesfuly
+2019-06-12 10:41:18,355 INFO [1] ILog - kandabi@g.com deleted column: backlog
+2019-06-12 10:41:18,372 INFO [1] ILog - column was deleted succesfuly
+2019-06-12 10:41:18,373 INFO [1] ILog - kandabi@g.com deleted column: inProccess
+2019-06-12 10:41:18,389 INFO [1] ILog - column was deleted succesfuly
+2019-06-12 10:41:18,390 INFO [1] ILog - kandabi@g.com deleted column: done
+2019-06-12 10:41:18,407 INFO [1] ILog - column was deleted succesfuly
+2019-06-12 10:41:18,408 INFO [1] ILog - board deleted successfuly: hello
+2019-06-12 10:41:40,736 ERROR [1] ILog - task: 2doesnt exist
+2019-06-12 10:41:46,022 ERROR [1] ILog - task: 2doesnt exist
+2019-06-12 10:45:09,116 ERROR [1] ILog - problem with extract from database
+2019-06-12 10:45:09,309 ERROR [1] ILog - problem with extract from database
+2019-06-12 10:45:09,318 INFO [1] ILog - users initiated
+2019-06-12 10:45:19,416 INFO [1] ILog - kandabi@g.com loged in
+2019-06-12 10:45:32,973 INFO [1] ILog - board deleted successfuly: hello
+2019-06-12 10:45:51,066 INFO [1] ILog - column was added to the board: first
+2019-06-12 10:45:51,091 INFO [1] ILog - column was added to the board: first
+2019-06-12 10:45:51,113 INFO [1] ILog - column was added to the board: first
+2019-06-12 10:45:56,297 ERROR [1] ILog - cant add board with same boardName: first, kandabi@g.com
+2019-06-12 10:49:41,080 ERROR [1] ILog - problem with extract from database
+2019-06-12 10:49:41,200 INFO [1] ILog - users initiated
+2019-06-12 10:49:51,908 INFO [1] ILog - kandabi@g.com loged in
+2019-06-12 10:49:57,613 ERROR [1] ILog - cant add board with same boardName: first, kandabi@g.com
+2019-06-12 10:50:05,734 INFO [1] ILog - column was added to the board: second
+2019-06-12 10:50:05,761 INFO [1] ILog - column was added to the board: second
+2019-06-12 10:50:05,785 INFO [1] ILog - column was added to the board: second
+2019-06-12 10:50:07,255 ERROR [1] ILog - cant add board with empty name: kandabi@g.com
+2019-06-12 10:50:13,384 ERROR [1] ILog - cant add board with empty name: kandabi@g.com
+2019-06-12 10:50:22,826 INFO [1] ILog - kandabi@g.com deleted column: backlog
+2019-06-12 10:50:22,866 INFO [1] ILog - column was deleted succesfuly
+2019-06-12 10:50:22,868 INFO [1] ILog - kandabi@g.com deleted column: inProccess
+2019-06-12 10:50:22,895 INFO [1] ILog - column was deleted succesfuly
+2019-06-12 10:50:22,896 INFO [1] ILog - kandabi@g.com deleted column: done
+2019-06-12 10:50:22,922 INFO [1] ILog - column was deleted succesfuly
+2019-06-12 10:50:22,923 INFO [1] ILog - board deleted successfuly: second
+2019-06-12 10:50:41,868 INFO [1] ILog - column was added to the board: second
+2019-06-12 10:50:41,892 INFO [1] ILog - column was added to the board: second
+2019-06-12 10:50:41,929 INFO [1] ILog - column was added to the board: second
+2019-06-12 10:50:52,654 INFO [1] ILog - kandabi@g.com deleted column: backlog
+2019-06-12 10:50:52,676 INFO [1] ILog - column was deleted succesfuly
+2019-06-12 10:50:52,677 INFO [1] ILog - kandabi@g.com deleted column: inProccess
+2019-06-12 10:50:52,698 INFO [1] ILog - column was deleted succesfuly
+2019-06-12 10:50:52,700 INFO [1] ILog - kandabi@g.com deleted column: done
+2019-06-12 10:50:52,721 INFO [1] ILog - column was deleted succesfuly
+2019-06-12 10:50:52,723 INFO [1] ILog - board deleted successfuly: first
+2019-06-12 10:51:36,016 INFO [1] ILog - new max task Was determined
+2019-06-12 10:51:36,079 ERROR [1] ILog - problem with edit the database
+2019-06-12 10:53:30,509 ERROR [1] ILog - problem with extract from database
+2019-06-12 10:53:30,543 INFO [1] ILog - users initiated
+2019-06-12 10:53:38,007 INFO [1] ILog - kandabi@g.com loged in
+2019-06-12 10:53:48,108 INFO [1] ILog - new max task Was determined
+2019-06-12 10:54:16,999 ERROR [1] ILog - problem with extract from database
+2019-06-12 10:54:17,037 INFO [1] ILog - users initiated
+2019-06-12 10:54:26,327 INFO [1] ILog - kandabi@g.com loged in
+2019-06-12 10:54:34,981 INFO [1] ILog - new max task Was determined
+2019-06-12 10:55:05,964 ERROR [1] ILog - problem with extract from database
+2019-06-12 10:55:06,092 INFO [1] ILog - users initiated
+2019-06-12 10:55:14,976 INFO [1] ILog - kandabi@g.com loged in
+2019-06-12 10:55:22,205 INFO [1] ILog - new max task Was determined
+2019-06-12 10:56:05,303 INFO [1] ILog - added new task to databas: kandabi@g.com 2
+2019-06-12 10:56:05,306 INFO [1] ILog - new task added by kandabi@g.com
+2019-06-12 10:56:30,045 INFO [1] ILog - added new task to databas: kandabi@g.com 3
+2019-06-12 10:56:30,046 INFO [1] ILog - new task added by kandabi@g.com
+2019-06-12 10:56:49,024 INFO [1] ILog - attemp to add task to a limited column: backlog
+2019-06-12 10:59:21,010 INFO [1] ILog - users initiated
+2019-06-12 10:59:33,580 ERROR [1] ILog - Attempt to register a user that exist
+2019-06-12 10:59:40,422 INFO [1] ILog - created a new user name: erez@g.com
+2019-06-12 10:59:40,452 INFO [1] ILog - column was added to the board: erez@g.com
+2019-06-12 10:59:40,477 INFO [1] ILog - column was added to the board: erez@g.com
+2019-06-12 10:59:40,504 INFO [1] ILog - column was added to the board: erez@g.com
+2019-06-12 10:59:46,640 INFO [1] ILog - erez@g.com loged in
+2019-06-12 10:59:53,165 INFO [1] ILog - column was added to the board: second
+2019-06-12 10:59:53,205 INFO [1] ILog - column was added to the board: second
+2019-06-12 10:59:53,245 INFO [1] ILog - column was added to the board: second
+2019-06-12 11:01:35,419 INFO [1] ILog - users initiated
+2019-06-12 11:01:44,075 INFO [1] ILog - kandabi@g.com loged in
+2019-06-12 11:01:51,262 INFO [1] ILog - column was added to the board: third
+2019-06-12 11:01:51,279 INFO [1] ILog - column was added to the board: third
+2019-06-12 11:01:51,296 INFO [1] ILog - column was added to the board: third

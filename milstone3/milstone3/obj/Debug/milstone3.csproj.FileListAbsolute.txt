@@ -1,0 +1,66 @@
+C:\Users\or\source\repos\milstone3\milstone3\bin\Debug\milstone3.exe.config
+C:\Users\or\source\repos\milstone3\milstone3\bin\Debug\milstone3.exe
+C:\Users\or\source\repos\milstone3\milstone3\bin\Debug\milstone3.pdb
+C:\Users\or\source\repos\milstone3\milstone3\obj\Debug\milstone3.csprojAssemblyReference.cache
+C:\Users\or\source\repos\milstone3\milstone3\obj\Debug\MainWindow.g.cs
+C:\Users\or\source\repos\milstone3\milstone3\obj\Debug\App.g.cs
+C:\Users\or\source\repos\milstone3\milstone3\obj\Debug\milstone3_MarkupCompile.cache
+C:\Users\or\source\repos\milstone3\milstone3\obj\Debug\milstone3_MarkupCompile.lref
+C:\Users\or\source\repos\milstone3\milstone3\obj\Debug\MainWindow.baml
+C:\Users\or\source\repos\milstone3\milstone3\obj\Debug\milstone3.g.resources
+C:\Users\or\source\repos\milstone3\milstone3\obj\Debug\milstone3.Properties.Resources.resources
+C:\Users\or\source\repos\milstone3\milstone3\obj\Debug\milstone3.csproj.GenerateResource.cache
+C:\Users\or\source\repos\milstone3\milstone3\obj\Debug\milstone3.csproj.CoreCompileInputs.cache
+C:\Users\or\source\repos\milstone3\milstone3\obj\Debug\milstone3.exe
+C:\Users\or\source\repos\milstone3\milstone3\obj\Debug\milstone3.pdb
+C:\Users\or\source\repos\milstone3\milstone3\bin\Debug\log4net.dll
+C:\Users\or\source\repos\milstone3\milstone3\bin\Debug\log4net.xml
+C:\Users\or\source\repos\milstone3\milstone3\obj\Debug\milstone3.csproj.CopyComplete
+C:\Users\אלעד\Desktop\צבוא\milstone3\milstone3\bin\Debug\milstone3.exe.config
+C:\Users\אלעד\Desktop\צבוא\milstone3\milstone3\bin\Debug\milstone3.exe
+C:\Users\אלעד\Desktop\צבוא\milstone3\milstone3\bin\Debug\milstone3.pdb
+C:\Users\אלעד\Desktop\צבוא\milstone3\milstone3\bin\Debug\log4net.dll
+C:\Users\אלעד\Desktop\צבוא\milstone3\milstone3\bin\Debug\log4net.xml
+C:\Users\אלעד\Desktop\צבוא\milstone3\milstone3\obj\Debug\milstone3.csprojAssemblyReference.cache
+C:\Users\אלעד\Desktop\צבוא\milstone3\milstone3\obj\Debug\MainWindow.g.cs
+C:\Users\אלעד\Desktop\צבוא\milstone3\milstone3\obj\Debug\App.g.cs
+C:\Users\אלעד\Desktop\צבוא\milstone3\milstone3\obj\Debug\milstone3_MarkupCompile.cache
+C:\Users\אלעד\Desktop\צבוא\milstone3\milstone3\obj\Debug\milstone3_MarkupCompile.lref
+C:\Users\אלעד\Desktop\צבוא\milstone3\milstone3\obj\Debug\MainWindow.baml
+C:\Users\אלעד\Desktop\צבוא\milstone3\milstone3\obj\Debug\milstone3.g.resources
+C:\Users\אלעד\Desktop\צבוא\milstone3\milstone3\obj\Debug\milstone3.Properties.Resources.resources
+C:\Users\אלעד\Desktop\צבוא\milstone3\milstone3\obj\Debug\milstone3.csproj.GenerateResource.cache
+C:\Users\אלעד\Desktop\צבוא\milstone3\milstone3\obj\Debug\milstone3.csproj.CoreCompileInputs.cache
+C:\Users\אלעד\Desktop\צבוא\milstone3\milstone3\obj\Debug\milstone3.csproj.CopyComplete
+C:\Users\אלעד\Desktop\צבוא\milstone3\milstone3\obj\Debug\milstone3.exe
+C:\Users\אלעד\Desktop\צבוא\milstone3\milstone3\obj\Debug\milstone3.pdb
+C:\Users\אלעד\Desktop\צבוא\milstone3\milstone3\obj\Debug\Window1.g.cs
+C:\Users\אלעד\Desktop\צבוא\milstone3\milstone3\obj\Debug\Window1.baml
+C:\Users\אלעד\Desktop\צבוא\milstone3\milstone3\obj\Debug\Window2.g.cs
+C:\Users\אלעד\Desktop\צבוא\milstone3\milstone3\obj\Debug\Window2.baml
+C:\Users\אלעד\Desktop\צבוא\milstone3\milstone3\obj\Debug\TaskWindow.g.cs
+C:\Users\אלעד\Desktop\צבוא\milstone3\milstone3\obj\Debug\TaskWindow.baml
+C:\Users\erez1\intro software\milestone3\milstone3\milstone3\bin\Debug\milstone3.exe.config
+C:\Users\erez1\intro software\milestone3\milstone3\milstone3\bin\Debug\milstone3.exe
+C:\Users\erez1\intro software\milestone3\milstone3\milstone3\bin\Debug\milstone3.pdb
+C:\Users\erez1\intro software\milestone3\milstone3\milstone3\bin\Debug\log4net.dll
+C:\Users\erez1\intro software\milestone3\milstone3\milstone3\bin\Debug\log4net.xml
+C:\Users\erez1\intro software\milestone3\milstone3\milstone3\obj\Debug\milstone3.csprojAssemblyReference.cache
+C:\Users\erez1\intro software\milestone3\milstone3\milstone3\obj\Debug\MainWindow.g.cs
+C:\Users\erez1\intro software\milestone3\milstone3\milstone3\obj\Debug\TaskWindow.g.cs
+C:\Users\erez1\intro software\milestone3\milstone3\milstone3\obj\Debug\Window1.g.cs
+C:\Users\erez1\intro software\milestone3\milstone3\milstone3\obj\Debug\Window2.g.cs
+C:\Users\erez1\intro software\milestone3\milstone3\milstone3\obj\Debug\App.g.cs
+C:\Users\erez1\intro software\milestone3\milstone3\milstone3\obj\Debug\milstone3_MarkupCompile.cache
+C:\Users\erez1\intro software\milestone3\milstone3\milstone3\obj\Debug\milstone3_MarkupCompile.lref
+C:\Users\erez1\intro software\milestone3\milstone3\milstone3\obj\Debug\MainWindow.baml
+C:\Users\erez1\intro software\milestone3\milstone3\milstone3\obj\Debug\TaskWindow.baml
+C:\Users\erez1\intro software\milestone3\milstone3\milstone3\obj\Debug\Window1.baml
+C:\Users\erez1\intro software\milestone3\milstone3\milstone3\obj\Debug\Window2.baml
+C:\Users\erez1\intro software\milestone3\milstone3\milstone3\obj\Debug\milstone3.g.resources
+C:\Users\erez1\intro software\milestone3\milstone3\milstone3\obj\Debug\milstone3.Properties.Resources.resources
+C:\Users\erez1\intro software\milestone3\milstone3\milstone3\obj\Debug\milstone3.csproj.GenerateResource.cache
+C:\Users\erez1\intro software\milestone3\milstone3\milstone3\obj\Debug\milstone3.csproj.CoreCompileInputs.cache
+C:\Users\erez1\intro software\milestone3\milstone3\milstone3\obj\Debug\milstone3.csproj.CopyComplete
+C:\Users\erez1\intro software\milestone3\milstone3\milstone3\obj\Debug\milstone3.exe
+C:\Users\erez1\intro software\milestone3\milstone3\milstone3\obj\Debug\milstone3.pdb

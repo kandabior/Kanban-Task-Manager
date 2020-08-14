@@ -1,0 +1,31 @@
+2019-06-06 09:44:56,954 ERROR [1] ILog - problem with extract from database
+2019-06-06 09:44:56,990 ERROR [1] ILog - problem with extract from database
+2019-06-06 09:44:56,995 INFO [1] ILog - users initiated
+2019-06-06 09:45:16,434 INFO [1] ILog - created a new user name: erez@g.com
+2019-06-06 09:45:16,478 ERROR [1] ILog - problem with adding column to the database
+2019-06-06 09:45:16,478 INFO [1] ILog - column was added to the board: erez@g.com
+2019-06-06 09:45:16,493 ERROR [1] ILog - problem with adding column to the database
+2019-06-06 09:45:16,494 INFO [1] ILog - column was added to the board: erez@g.com
+2019-06-06 09:45:16,516 ERROR [1] ILog - problem with adding column to the database
+2019-06-06 09:45:16,516 INFO [1] ILog - column was added to the board: erez@g.com
+2019-06-06 09:45:25,267 INFO [1] ILog - erez@g.com loged in
+2019-06-06 09:47:34,785 ERROR [1] ILog - problem with extract from database
+2019-06-06 09:47:34,879 ERROR [1] ILog - problem with extract from database
+2019-06-06 09:47:34,879 INFO [1] ILog - users initiated
+2019-06-06 09:47:44,553 INFO [1] ILog - created a new user name: elad@g.com
+2019-06-06 09:47:44,580 INFO [1] ILog - column was added to the board: elad@g.com
+2019-06-06 09:47:44,595 INFO [1] ILog - column was added to the board: elad@g.com
+2019-06-06 09:47:44,610 INFO [1] ILog - column was added to the board: elad@g.com
+2019-06-06 09:47:51,552 INFO [1] ILog - elad@g.com loged in
+2019-06-06 09:55:09,541 ERROR [1] ILog - problem with extract from database
+2019-06-06 09:55:09,559 INFO [1] ILog - users initiated
+2019-06-06 09:55:23,774 INFO [1] ILog - elad@g.com loged in
+2019-06-06 09:55:35,270 ERROR [1] ILog - date not valid: 10/10/2019
+2019-06-06 09:56:13,446 ERROR [1] ILog - problem with extract from database
+2019-06-06 09:56:13,462 INFO [1] ILog - users initiated
+2019-06-06 09:56:22,192 INFO [1] ILog - elad@g.com loged in
+2019-06-06 09:57:36,640 ERROR [1] ILog - problem with extract from database
+2019-06-06 09:57:36,656 INFO [1] ILog - users initiated
+2019-06-06 09:57:43,632 INFO [1] ILog - elad@g.com loged in
+2019-06-06 10:07:18,929 ERROR [1] ILog - problem with extract from database
+2019-06-06 10:07:18,977 INFO [1] ILog - users initiated

@@ -1,0 +1,25 @@
+﻿<Window x:Class="milstone3.PresentationLayer.XamlWindows.chooseBoard"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:milstone3.PresentationLayer.XamlWindows"
+        mc:Ignorable="d"
+        Title="chooseBoard" Height="450" Width="266">
+    <Grid Margin="0,0,-6.333,-0.333">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="204*"/>
+            <ColumnDefinition Width="51*"/>
+            <ColumnDefinition Width="11*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.Background>
+            <ImageBrush ImageSource="/milstone3;component/triangle-background-17-e1446557615252.png" Stretch="UniformToFill">
+            </ImageBrush>
+        </Grid.Background>
+        <DataGrid Name="ChooseBoardGrid" Background="Transparent" BorderBrush="White" BorderThickness="2" ItemsSource="{Binding BoardGridView, Mode=OneWay}" SelectedItem="{Binding SelectedBoard}" HorizontalAlignment="Left" Height="270" Margin="22,36,0,0" VerticalAlignment="Top" Width="142" />
+        <Button  Content="Choose" HorizontalAlignment="Left" Margin="58,350,0,0" VerticalAlignment="Top" Width="75" FontFamily="Cooper Black" FontSize="14"  FontWeight="Bold" Background="Transparent" BorderBrush="White" BorderThickness="2"   Click="Button_Click"/>
+        <Button FontFamily="Cooper Black" FontSize="14"  FontWeight="Bold" Background="Transparent" BorderBrush="White" BorderThickness="2"   Grid.ColumnSpan="3" Content="add board" HorizontalAlignment="Left" Margin="172,92,0,0" VerticalAlignment="Top" Width="86" Click="Button_Click_1"/>
+        <TextBox Text="{Binding BoardId}" Grid.ColumnSpan="3" HorizontalAlignment="Left" Height="23" Margin="171,54,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="87"/>
+        <Button FontFamily="Cooper Black" FontSize="14"  FontWeight="Bold" Background="Transparent" BorderBrush="White" BorderThickness="2"   Grid.ColumnSpan="3" Content="delete" HorizontalAlignment="Left" Margin="172,128,0,0" VerticalAlignment="Top" Width="86" Click="Button_Click_2"/>
+    </Grid>
+</Window>
